@@ -3045,7 +3045,7 @@
     (fp_line (start 1.4 0.9) (end 1.4 -0.9) (layer "B.Fab") (width 0.1) (tstamp e762be64-cce8-4e04-94f5-d948f512d0fc))
     (fp_line (start -0.35 0) (end 0.25 0.4) (layer "B.Fab") (width 0.1) (tstamp ffa6217e-a2fe-4483-a2f5-cbd281fc9371))
     (pad "1" smd rect (at -1.65 0 180) (size 0.9 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
-      (net 8 "ROW1") (pinfunction "K") (pintype "passive") (tstamp c3d4e94b-5fea-4b1a-bf51-3dcac498f73d))
+      (net 110 "ROW3") (pinfunction "K") (pintype "passive") (tstamp c3d4e94b-5fea-4b1a-bf51-3dcac498f73d))
     (pad "2" smd rect (at 1.65 0 180) (size 0.9 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 28 "Net-(MX22-Pad2)") (pinfunction "A") (pintype "passive") (tstamp fe24802f-fd87-46df-82bb-f9fd18796f22))
     (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
@@ -3195,7 +3195,7 @@
     (fp_line (start 1.4 -0.9) (end -1.4 -0.9) (layer "B.Fab") (width 0.1) (tstamp e8ee9888-6d4d-496d-8326-22af63df15ce))
     (fp_line (start 0.25 0) (end 0.75 0) (layer "B.Fab") (width 0.1) (tstamp ec0c4c76-6938-475a-bcd2-4d33672c4331))
     (pad "1" smd rect (at -1.65 0 180) (size 0.9 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
-      (net 10 "ROW2") (pinfunction "K") (pintype "passive") (tstamp d7f28ed0-697a-4c40-bce8-b15bc1e51b8f))
+      (net 8 "ROW1") (pinfunction "K") (pintype "passive") (tstamp d7f28ed0-697a-4c40-bce8-b15bc1e51b8f))
     (pad "2" smd rect (at 1.65 0 180) (size 0.9 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 29 "Net-(MX23-Pad2)") (pinfunction "A") (pintype "passive") (tstamp 6a80f24e-07fc-4ace-9031-855ac32394c9))
     (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
@@ -3295,7 +3295,7 @@
     (fp_line (start 0.25 0.4) (end 0.25 -0.4) (layer "B.Fab") (width 0.1) (tstamp e9953bba-edab-46bd-90a1-72197667cf54))
     (fp_line (start 1.4 -0.9) (end -1.4 -0.9) (layer "B.Fab") (width 0.1) (tstamp f5e04813-4ae9-4584-8156-a6864bd4cc1c))
     (pad "1" smd rect (at -1.65 0 180) (size 0.9 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
-      (net 110 "ROW3") (pinfunction "K") (pintype "passive") (tstamp c58d6ab6-03e4-4e1d-ad1c-4ae1b009de00))
+      (net 10 "ROW2") (pinfunction "K") (pintype "passive") (tstamp c58d6ab6-03e4-4e1d-ad1c-4ae1b009de00))
     (pad "2" smd rect (at 1.65 0 180) (size 0.9 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 30 "Net-(MX24-Pad2)") (pinfunction "A") (pintype "passive") (tstamp c8711404-5396-4686-9899-9ffba02b6d39))
     (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
@@ -3745,7 +3745,7 @@
     (fp_line (start 0.25 0.4) (end 0.25 -0.4) (layer "B.Fab") (width 0.1) (tstamp ed4e24ef-bdec-4275-88b1-3bac73d3bc6c))
     (fp_line (start 1.4 0.9) (end 1.4 -0.9) (layer "B.Fab") (width 0.1) (tstamp fff807c2-0b86-4828-aa7e-8d3908dfe11e))
     (pad "1" smd rect (at -1.65 0 180) (size 0.9 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
-      (net 110 "ROW3") (pinfunction "K") (pintype "passive") (tstamp fb5a964a-60d1-422c-b97d-d24d5eaf1de1))
+      (net 10 "ROW2") (pinfunction "K") (pintype "passive") (tstamp fb5a964a-60d1-422c-b97d-d24d5eaf1de1))
     (pad "2" smd rect (at 1.65 0 180) (size 0.9 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 27 "Net-(MX21-Pad2)") (pinfunction "A") (pintype "passive") (tstamp 14b0ba2b-a5d0-4dd9-96f8-bac089697b9c))
     (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
@@ -4945,7 +4945,7 @@
     (fp_line (start 1.4 -0.9) (end -1.4 -0.9) (layer "B.Fab") (width 0.1) (tstamp ccb06d78-6ba3-43f9-9ba2-60c5d86b31f7))
     (fp_line (start 0.25 0.4) (end 0.25 -0.4) (layer "B.Fab") (width 0.1) (tstamp d65473a4-eac0-43c1-b388-202a0ebbe66f))
     (pad "1" smd rect (at -1.65 0 180) (size 0.9 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
-      (net 10 "ROW2") (pinfunction "K") (pintype "passive") (tstamp 43c41fe4-122d-46a6-901d-78bbaa71cde3))
+      (net 8 "ROW1") (pinfunction "K") (pintype "passive") (tstamp 43c41fe4-122d-46a6-901d-78bbaa71cde3))
     (pad "2" smd rect (at 1.65 0 180) (size 0.9 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 111 "Net-(D20-Pad2)") (pinfunction "A") (pintype "passive") (tstamp e943c7d2-ef8e-4075-82f4-9c12745c370b))
     (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
@@ -4995,7 +4995,7 @@
     (fp_line (start 1.4 -0.9) (end -1.4 -0.9) (layer "B.Fab") (width 0.1) (tstamp 9074fdf8-9c47-4635-985a-cf3af71134c9))
     (fp_line (start -1.4 0.9) (end 1.4 0.9) (layer "B.Fab") (width 0.1) (tstamp f2b97b92-2784-4d78-9a18-a77b5b512de6))
     (pad "1" smd rect (at -1.65 0 180) (size 0.9 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
-      (net 8 "ROW1") (pinfunction "K") (pintype "passive") (tstamp fdbbb461-d4b3-48b1-a312-97e78dc86a35))
+      (net 110 "ROW3") (pinfunction "K") (pintype "passive") (tstamp fdbbb461-d4b3-48b1-a312-97e78dc86a35))
     (pad "2" smd rect (at 1.65 0 180) (size 0.9 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 31 "Net-(MX25-Pad2)") (pinfunction "A") (pintype "passive") (tstamp e1da1141-100f-4bac-bd43-8015ac60fed5))
     (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
