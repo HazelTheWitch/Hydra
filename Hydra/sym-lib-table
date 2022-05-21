@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name "MX_Alps_Hybrid")(type "Legacy")(uri "C:/Users/Hazel/Documents/KiCad/Hydra/MX_Alps_Hybrid/Schematic Library/MX_Alps_Hybrid.lib")(options "")(descr ""))
+  (lib (name "SSD1306-128x64_OLED")(type "Legacy")(uri "C:/Users/Hazel/Documents/KiCad/Hydra/SSD1306-128x64_OLED.lib")(options "")(descr ""))
 )
