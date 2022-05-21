@@ -2,4 +2,5 @@
   (lib (name "MX_Only")(type "KiCad")(uri "C:/Users/Hazel/Documents/KiCad/Hydra/MX_Alps_Hybrid/MX_Only.pretty")(options "")(descr ""))
   (lib (name "random-keyboard-parts")(type "KiCad")(uri "C:/Users/Hazel/Documents/KiCad/Hydra/random-keyboard-parts.pretty")(options "")(descr ""))
   (lib (name "USB_C_Receptacle_GT-USB-7010")(type "KiCad")(uri "C:/Users/Hazel/Documents/KiCad/Hydra/USB_C_Receptacle_GT-USB-7010")(options "")(descr ""))
+  (lib (name "SSD1306")(type "KiCad")(uri "C:/Users/evanb/Documents/Keyboard Projects/Hydra/SSD1306.pretty")(options "")(descr ""))
 )
